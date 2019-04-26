@@ -1,7 +1,7 @@
 # ML.NET Azure Devops Sample
 
 This sample application demos how to create a Continuous Integration/Continuous Delivery (CI/CD) pipeline for ML.NET 
-machine learning models.
+machine learning models. See [accompanying blog post](http://luisquintanilla.me/2018/11/26/azdevops-mlnet-aci/) for more details.
 
 ## Prerequisites
 
